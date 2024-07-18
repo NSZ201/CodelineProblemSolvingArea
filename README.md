@@ -20,6 +20,14 @@ To submit your solution for all 4 problems, please follow these steps:
   ```bash
   git clone https://github.com/your-username/repo-name.git
   ```
+  git clone https://github.com/your-username/repo-name.git
+  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+> 
 
 ### Step 4: Create a new branch
 - Navigate to the cloned repository directory
